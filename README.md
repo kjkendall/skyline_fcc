@@ -21,7 +21,7 @@ The "City Skyline" project is a part of FreeCodeCamp's curriculum designed to te
 
 ## Live Demo
 
-Check out the live version of the project [here](#).  
+Check out the live version of the project [here](https://fcc-skyline-ky.netlify.app/).  
 *(Update the link with your live project, e.g., GitHub Pages URL)*
 
 ## Tools and Technologies
@@ -37,7 +37,7 @@ My friends and mentors who encouraged me throughout the learning process.
 The developer community for creating resources and providing inspiration.
 
 ## Connect with Me
-GitHub: kjeanineatl
-LinkedIn: Kyra Kendall
-TikTok: kjeanineatl
-Email: kykendall81@gmail.com
+- GitHub: kjeanineatl
+- LinkedIn: Kyra Kendall
+- TikTok: kjeanineatl
+- Email: kykendall81@gmail.com
